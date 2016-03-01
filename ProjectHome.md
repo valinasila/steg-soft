@@ -1,0 +1,9 @@
+Security has been a major issue over the years ever since the evolution of Mankind. First over his possessiveness towards his possessions and then this took over a big leap.
+Technology has advanced. Almost all the governments have switched over to computer work rather than keeping the paper work. Earlier the security was over the matter of keeping safe the records from the thieves. The issue remains the same – only thing is that the thieves have changed their getup.
+In this virtual world, where each and every data is almost virtual, the thieves have also become virtual. Now the data is to be secured on the computer or talking in a broader sense – Over Internet. The data transfer over Internet has never been secure and would never be unless and until people change their view of thinking. But that sounds somewhat impractical – somewhat similar to removing the Demon from the World and creating a world of all the Angels.
+The software, StegSoft, is based on the concept of Steganography. Using the development tool as C++, the software has been compiled up.
+The software is able to steganograph text messages behind Picture as well as Audio files.
+It is also capable of extracting back the message a hidden message, hided using the same software.
+The last utility of the software is to restore back the files being steganographed.
+The speciality of the software is the distinguishing mark being placed by the software in the picture/audio files it steganographs.
+The mark is chosen using high security constraints and is a strong identifier. Without the knowledge of the mark, the files cannot be decoded or restored.
